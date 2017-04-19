@@ -4,15 +4,16 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
+          <option name="enableCppFormatting" value="true" />
           <option name="enableJSFormatting" value="true" />
-          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1480108792025" />
           <option name="name" value="default" />
-          <option name="pathToConfigFileJS" value="$USER_HOME$/Desktop/jsformatter.xml" />
-          <option name="pathToConfigFileJava" value="$USER_HOME$/Desktop/javaformatter.xml" />
+          <option name="pathToConfigFileCpp" value="C:/work/eclipse-formatter/cpp-formatter.xml" />
+          <option name="pathToConfigFileJS" value="C:/work/eclipse-formatter/js-formatter.xml" />
+          <option name="pathToConfigFileJava" value="C:/work/eclipse-formatter/java-formatter.xml" />
+          <option name="selectedCppProfile" value="Google C++" />
           <option name="selectedJavaProfile" value="GoogleStyle" />
           <option name="selectedJavaScriptProfile" value="Google JavaScript Style" />
-          <option name="useForLiveTemplates" value="true" />
         </Settings>
       </list>
     </option>
