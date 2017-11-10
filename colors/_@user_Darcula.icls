@@ -1,10 +1,10 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2016-11-25T11:55:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-11-07T10:17:13</property>
+    <property name="modified">2017-11-10T15:01:44</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -13,7 +13,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -21,7 +21,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
