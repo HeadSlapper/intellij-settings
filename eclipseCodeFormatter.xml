@@ -3,7 +3,6 @@
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="defaultSettings" value="true" />
           <option name="enableCppFormatting" value="true" />
           <option name="enableJSFormatting" value="true" />
           <option name="formatter" value="ECLIPSE" />
@@ -12,6 +11,7 @@
           <option name="pathToConfigFileCpp" value="C:/work/eclipse-formatter/cpp-formatter.xml" />
           <option name="pathToConfigFileJS" value="C:/work/eclipse-formatter/js-formatter.xml" />
           <option name="pathToConfigFileJava" value="C:/work/eclipse-formatter/java-formatter.xml" />
+          <option name="selectedCppProfile" value="Google C++" />
           <option name="selectedJavaProfile" value="GoogleStyle" />
           <option name="selectedJavaScriptProfile" value="Google JavaScript Style" />
         </Settings>
